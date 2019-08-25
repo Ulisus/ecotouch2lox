@@ -1,4 +1,4 @@
 # ecotouch2lox
-Grab WK Heatpump data and send it to Lox
+original plugin: https://github.com/schlickspringer/ecotouch2lox
 
-BETA ;-)
+completely redone to work with latest loxberry versions
